@@ -26,11 +26,11 @@ const Showtodolist = () => {
           todo: "이불 개기",
           isComlete: true
         },
-        {
-            id: 4,
-            todo: "물 먹기",
-            isComlete: false
-        }
+        // {
+        //     id: 4,
+        //     todo: "물 먹기",
+        //     isComlete: false
+        // }
       ]
     // const [exampleList] = useFetch(`http://localhost:3001/todolist/`)
 
